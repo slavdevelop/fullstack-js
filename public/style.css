@@ -1,0 +1,12 @@
+.CarPreview {
+  margin: 1em;
+  border: 1px solid #ccc; }
+  .CarPreview .car-brand {
+    border-bottom: 1px solid #ccc;
+    padding: 0.25em 0.5em;
+    font-weight: bold;
+    background-color: #eee; }
+  .CarPreview .car-model {
+    padding: 0.5em; }
+  .CarPreview.link {
+    cursor: pointer; }

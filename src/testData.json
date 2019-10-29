@@ -1,0 +1,24 @@
+{
+    "cars": [
+        {
+            "id": 1,
+            "brand": "Mercedes",
+            "model": "E270"
+        },
+        {
+            "id": 2,
+            "brand": "Audi",
+            "model": "A5"
+        },
+        {
+            "id": 3,
+            "brand": "BMW",
+            "model": "530i"
+        },
+        {
+            "id": 4,
+            "brand": "Honda",
+            "model": "Civic"
+        }
+    ]
+}
